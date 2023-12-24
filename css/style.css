@@ -1,0 +1,36 @@
+a:link, a:visited 
+{
+	color: black;
+	background-color: transparent;
+	padding: 25px;
+	text-decoration: none;
+	text-align: center;
+	font-family: Garamond;
+	display: inline-block;
+	border-radius: 5px;
+}
+a:hover, a:active
+{		
+	background-color: beige;
+
+}
+h1
+{		
+	color: black;
+	background-color: floralwhite;
+	text-align: center;
+	font-family: Garamond;
+	font-size: 25px;
+	border-radius: 5px;
+	padding: 20px;
+}
+p
+{
+	color: black;
+	background-color: floralwhite;
+	text-align: center;
+	font-family: Garamond;
+	font-size: 15px;
+	border-radius: 5px;
+	padding: 10px;
+}
